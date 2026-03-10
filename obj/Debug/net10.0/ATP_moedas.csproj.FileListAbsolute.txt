@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\ATP_moedas\obj\Debug\net10.0\ATP_moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\ATP_moedas\obj\Debug\net10.0\ATP_moedas.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\ATP_moedas\obj\Debug\net10.0\ATP_moedas.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\ATP_moedas\obj\Debug\net10.0\ATP_moedas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\ATP_moedas\bin\Debug\net10.0\ATP_moedas.exe
+C:\Users\User\OneDrive\Desktop\ATP_moedas\bin\Debug\net10.0\ATP_moedas.deps.json
+C:\Users\User\OneDrive\Desktop\ATP_moedas\bin\Debug\net10.0\ATP_moedas.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\ATP_moedas\bin\Debug\net10.0\ATP_moedas.dll
+C:\Users\User\OneDrive\Desktop\ATP_moedas\bin\Debug\net10.0\ATP_moedas.pdb
+C:\Users\User\OneDrive\Desktop\ATP_moedas\obj\Debug\net10.0\ATP_moedas.dll
+C:\Users\User\OneDrive\Desktop\ATP_moedas\obj\Debug\net10.0\refint\ATP_moedas.dll
+C:\Users\User\OneDrive\Desktop\ATP_moedas\obj\Debug\net10.0\ATP_moedas.pdb
+C:\Users\User\OneDrive\Desktop\ATP_moedas\obj\Debug\net10.0\ATP_moedas.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\ATP_moedas\obj\Debug\net10.0\ref\ATP_moedas.dll
